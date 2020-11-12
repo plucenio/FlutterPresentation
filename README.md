@@ -1,2 +1,2 @@
 # FlutterPresentation
-A small presentation abou widgets used on Flutter.
+A small presentation about widgets used on Flutter.
