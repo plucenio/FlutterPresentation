@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.yellow,
       ),
       home: HomePage(),
+      centerTitle: true,
     );
   }
 }
